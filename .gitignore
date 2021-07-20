@@ -1,0 +1,6 @@
+# IDE
+.lh
+.vscode
+.DS_Store
+.idea
+.ipynb_checkpoints/
